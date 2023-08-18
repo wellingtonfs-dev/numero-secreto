@@ -14,6 +14,7 @@ function verificaSeOChutePossuiUmValorValido(chute) {
         } else {
 
             elementoChute.innerHTML += '<div>Valor Inválido</div>';
+            return
         }
     }
 
