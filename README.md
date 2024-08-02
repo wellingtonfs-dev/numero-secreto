@@ -8,7 +8,7 @@ O jogo funciona melhor no ```Google Chrome```
 
 Você pode usar o Link abaixo para começar:
 
-jogo-numero-secreto-three-gold.vercel.app
+[Numero secreto](numero-secreto-six-rouge.vercel.app)
 
 Após entrar no link ele vai pedir para liberar o microfone, depois que permitir é só falar um número.
 
